@@ -1,2 +1,0 @@
-# foodWeb
-Created with CodeSandbox
